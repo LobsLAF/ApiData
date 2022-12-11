@@ -12,11 +12,11 @@
           "amount": 8
         },
         {
-          "id": "1eaa0d8c-2d89-2b84-aa1f-b75ccc85faff",
-          "amount": 64
+          "id": "a1bf49f9-1f1f-2a4d-5f7b-c0c5ba833068",
+          "amount": 16
         }
       ],
-      "rubies": 15,
+      "rubies": 3,
       "buildplates": [
       ],
       "challenges": [
@@ -31,6 +31,22 @@
     "experienceRequired": 1500,
     "rewards": {
       "inventory": [
+        {
+          "id": "c14ba849-ef0b-6b26-cfeb-f6b7c6cc7d00",
+          "amount": 32
+        },
+        {
+          "id": "913156b3-c545-a8a1-8dec-0df0095af863",
+          "amount": 3
+        },
+        {
+          "id": "815afac8-1606-7013-a2aa-1ccb6cf74de3",
+          "amount": 4
+        },
+        {
+          "id": "8e15a09c-0eb3-a84d-781e-b9b14ab71f9e",
+          "amount": 4
+        }
       ],
       "buildplates": [
       ],
@@ -46,6 +62,22 @@
     "experienceRequired": 2800,
     "rewards": {
       "inventory": [
+        {
+          "id": "a278b35c-297d-f144-8625-be5fe5d46143",
+          "amount": 16
+        },
+        {
+          "id": "ee36c362-6711-f648-980e-96cc891bec56",
+          "amount": 8
+        },
+        {
+          "id": "e5a9653f-62bf-1782-cc4c-4deafd4ab098",
+          "amount": 16
+        },
+        {
+          "id": "f9a704a1-853d-4afd-92f5-285fb2aa2039",
+          "amount": 1
+        }
       ],
       "buildplates": [
       ],
@@ -61,7 +93,20 @@
     "experienceRequired": 4600,
     "rewards": {
       "inventory": [
+        {
+          "id": "8765f3ca-41b4-455e-a8b6-81358e250ee1",
+          "amount": 5
+        },
+        {
+          "id": "21959c50-9406-299c-f8ad-5300052eb31b",
+          "amount": 4
+        },
+        {
+          "id": "aa27137d-eb9f-473b-290e-2b8467add1c4",
+          "amount": 8
+        }
       ],
+      "rubies": 5,
       "buildplates": [
       ],
       "challenges": [
@@ -76,6 +121,22 @@
     "experienceRequired": 6100,
     "rewards": {
       "inventory": [
+        {
+          "id": "88ffe819-aefb-e080-5ef5-e04244a387e1",
+          "amount": 3
+        },
+        {
+          "id": "a0d0fd70-2a95-6b6e-9fa5-49866a8c6098",
+          "amount": 3
+        },
+        {
+          "id": "a2ff336f-5122-1736-c0d6-1556fe9d3e50",
+          "amount": 3
+        },
+        {
+          "id": "16efd285-2ece-c1cf-9b31-632c8958e482",
+          "amount": 4
+        }
       ],
       "buildplates": [
       ],
@@ -91,6 +152,22 @@
     "experienceRequired": 7800,
     "rewards": {
       "inventory": [
+        {
+          "id": "45a12ea7-aee9-e377-3d1e-f7fb27c8cbcc",
+          "amount": 32
+        },
+        {
+          "id": "8fe42e43-3af9-5d9e-941e-0b5d4d6b0741",
+          "amount": 16
+        },
+        {
+          "id": "613f036b-44d1-3107-8d47-de63bb796f8b",
+          "amount": 8
+        },
+        {
+          "id": "db79d00e-4d38-645e-a015-5da494b50156",
+          "amount": 8
+        }
       ],
       "buildplates": [
       ],
@@ -106,6 +183,22 @@
     "experienceRequired": 10100,
     "rewards": {
       "inventory": [
+        {
+          "id": "c2fdbc1c-60ab-396c-22a8-d9a3df37555e",
+          "amount": 16
+        },
+        {
+          "id": "b99f2db1-bb67-0fca-6f3b-85cccda6bfe9",
+          "amount": 4
+        },
+        {
+          "id": "04eafeb1-0eff-f85e-9ac9-ea6c69024035",
+          "amount": 4
+        },
+        {
+          "id": "111637af-d42d-133c-cefe-184442d230ca",
+          "amount": 8
+        }
       ],
       "buildplates": [
       ],
@@ -121,6 +214,22 @@
     "experienceRequired": 13300,
     "rewards": {
       "inventory": [
+        {
+          "id": "051081b4-0e56-33c6-23db-1fab31aa7143",
+          "amount": 4
+        },
+        {
+          "id": "5b81110c-1152-d4d4-a7c6-849fe93795d8",
+          "amount": 16
+        },
+        {
+          "id": "a5d006fa-1864-31b3-d223-a7fe1047402d",
+          "amount": 3
+        },
+        {
+          "id": "a278b35c-297d-f144-8625-be5fe5d46143",
+          "amount": 16
+        }
       ],
       "buildplates": [
       ],
@@ -136,7 +245,20 @@
     "experienceRequired": 17800,
     "rewards": {
       "inventory": [
+        {
+          "id": "8765f3ca-41b4-455e-a8b6-81358e250ee1",
+          "amount": 8
+        },
+        {
+          "id": "1c548de0-92d4-3ba2-84d1-fc2671d388cb",
+          "amount": 4
+        },
+        {
+          "id": "fb0cc5c4-f6a9-4f60-a37f-be521d1bcafc",
+          "amount": 1
+        }
       ],
+      "rubies": 10,
       "buildplates": [
       ],
       "challenges": [
@@ -151,6 +273,22 @@
     "experienceRequired": 21400,
     "rewards": {
       "inventory": [
+        {
+          "id": "6116b348-0b54-d20f-ac3a-09d285ea5dc5",
+          "amount": 16
+        },
+        {
+          "id": "e7c7f2ff-4233-0824-5d87-3344c9082616",
+          "amount": 16
+        },
+        {
+          "id": "b6c38658-3dd1-5e14-1ffd-956c4bb4348b",
+          "amount": 16
+        },
+        {
+          "id": "595660a4-85b5-ac91-45be-ded273457fe4",
+          "amount": 16
+        }
       ],
       "buildplates": [
       ],
@@ -166,6 +304,22 @@
     "experienceRequired": 25700,
     "rewards": {
       "inventory": [
+        {
+          "id": "d08fb88b-e670-2a8d-3b83-8edb363e7ba4",
+          "amount": 1
+        },
+        {
+          "id": "c2d1ad59-c34c-28c7-6c7f-656fa722a926",
+          "amount": 32
+        },
+        {
+          "id": "000c355c-3b9a-4313-bbe3-fbcaa7e97871",
+          "amount": 12
+        },
+        {
+          "id": "f1d30067-013c-0e1a-d648-59a016413ae1",
+          "amount": 3
+        }
       ],
       "buildplates": [
       ],
@@ -181,6 +335,22 @@
     "experienceRequired": 31300,
     "rewards": {
       "inventory": [
+        {
+          "id": "13062bb3-f148-7ede-deee-f3e550e8c8b2",
+          "amount": 2
+        },
+        {
+          "id": "cbe6f77f-f9cd-6b53-6d51-cb8166a5bf76",
+          "amount": 4
+        },
+        {
+          "id": "fdd548ff-b1ae-9a91-6c54-19a64358195b",
+          "amount": 16
+        },
+        {
+          "id": "290f92ba-1541-8bd2-97dd-eb7f233031b8",
+          "amount": 1
+        }
       ],
       "buildplates": [
       ],
@@ -196,6 +366,22 @@
     "experienceRequired": 39100,
     "rewards": {
       "inventory": [
+        {
+          "id": "a3be4f81-d501-ba71-a343-925a8106316e",
+          "amount": 16
+        },
+        {
+          "id": "74b80b10-4980-b079-5b4f-5f5051477cce",
+          "amount": 24
+        },
+        {
+          "id": "4aacd62f-ebb0-adb9-82ef-a9606efd1b6e",
+          "amount": 32
+        },
+        {
+          "id": "837f079f-1257-486a-9ef1-b910da677981",
+          "amount": 1
+        }
       ],
       "buildplates": [
       ],
@@ -211,7 +397,20 @@
     "experienceRequired": 50000,
     "rewards": {
       "inventory": [
+        {
+          "id": "408bb17b-da92-0cea-7496-ee01c6a542d7",
+          "amount": 5
+        },
+        {
+          "id": "a1c6f586-c60c-929c-276d-bf24f0e174d1",
+          "amount": 16
+        },
+        {
+          "id": "ba80858b-9aa5-09db-10df-8341d4099487",
+          "amount": 10
+        }
       ],
+      "rubies": 15,
       "buildplates": [
       ],
       "challenges": [
@@ -226,6 +425,22 @@
     "experienceRequired": 58700,
     "rewards": {
       "inventory": [
+        {
+          "id": "038c8034-1d98-96ca-8278-bc69f592549f",
+          "amount": 5
+        },
+        {
+          "id": "c3a5c83b-9c0f-275a-b101-bc0ae6d32e1e",
+          "amount": 16
+        },
+        {
+          "id": "b584305e-7ff3-54b9-af7d-7e9c07c890d1",
+          "amount": 3
+        },
+        {
+          "id": "01185eb1-74b1-afc9-8840-eaf22d4b3863",
+          "amount": 12
+        }
       ],
       "buildplates": [
       ],
@@ -241,6 +456,22 @@
     "experienceRequired": 68700,
     "rewards": {
       "inventory": [
+        {
+          "id": "a26f1d8c-df36-6afd-bee6-bfa7642487fa",
+          "amount": 2
+        },
+        {
+          "id": "c2fdbc1c-60ab-396c-22a8-d9a3df37555e",
+          "amount": 12
+        },
+        {
+          "id": "9daf4912-7cd2-172d-6d1b-aa4bd3fc8319",
+          "amount": 2
+        },
+        {
+          "id": "97efc3a4-4a52-2c3a-c8e1-c2e8755cfc6f",
+          "amount": 16
+        }
       ],
       "buildplates": [
       ],
@@ -256,6 +487,22 @@
     "experienceRequired": 82700,
     "rewards": {
       "inventory": [
+        {
+          "id": "f4278e45-b1d8-faa7-e247-c3bc54c83d4c",
+          "amount": 16
+        },
+        {
+          "id": "ed7a1dd1-9bac-f5b3-3c83-d4126fcd9947",
+          "amount": 16
+        },
+        {
+          "id": "2aa782f3-e6c6-b1f4-336b-e098a8bfc736",
+          "amount": 16
+        },
+        {
+          "id": "efa974a7-4426-ab7b-ac64-e54e17ba3316",
+          "amount": 16
+        }
       ],
       "buildplates": [
       ],
@@ -271,6 +518,22 @@
     "experienceRequired": 101700,
     "rewards": {
       "inventory": [
+        {
+          "id": "d969bf6d-e299-473b-819a-470a5e9d8657",
+          "amount": 16
+        },
+        {
+          "id": "928597d9-b3d0-ed7d-1887-5e1edf892811",
+          "amount": 16
+        },
+        {
+          "id": "8b104370-7ad7-71fd-8b29-ffd8fcce6277",
+          "amount": 16
+        },
+        {
+          "id": "803aa7f4-e518-fa27-7b39-7ae5cdcf4534",
+          "amount": 16
+        }
       ],
       "buildplates": [
       ],
@@ -286,7 +549,20 @@
     "experienceRequired": 128700,
     "rewards": {
       "inventory": [
+        {
+          "id": "68486cd0-d9ce-4414-73e0-ecdb33824d9f",
+          "amount": 4
+        },
+        {
+          "id": "0561d711-4266-92fe-4297-56de144a16a4",
+          "amount": 4
+        },
+        {
+          "id": "52692846-f1bd-a9ee-554a-913f9cb1dc27",
+          "amount": 6
+        }
       ],
+      "rubies": 20,
       "buildplates": [
       ],
       "challenges": [
@@ -301,6 +577,22 @@
     "experienceRequired": 137400,
     "rewards": {
       "inventory": [
+        {
+          "id": "426a7914-f259-12f6-e2fa-cca7d6759915",
+          "amount": 1
+        },
+        {
+          "id": "cadf471c-8e90-b5a0-8376-9e0882f59e53",
+          "amount": 1
+        },
+        {
+          "id": "85a279d4-d403-4487-d96d-17a91604e638",
+          "amount": 1
+        },
+        {
+          "id": "660c0f43-72f6-3735-1af3-38c987259ab6",
+          "amount": 1
+        }
       ],
       "buildplates": [
       ],
@@ -316,6 +608,22 @@
     "experienceRequired": 147000,
     "rewards": {
       "inventory": [
+        {
+          "id": "05ca3f49-3229-b432-e250-8dc7772d2b65",
+          "amount": 3
+        },
+        {
+          "id": "408bb17b-da92-0cea-7496-ee01c6a542d7",
+          "amount": 5
+        },
+        {
+          "id": "d3165763-3ea0-7817-3370-049ba0cc545a",
+          "amount": 32
+        },
+        {
+          "id": "a1c6f586-c60c-929c-276d-bf24f0e174d1",
+          "amount": 32
+        }
       ],
       "buildplates": [
       ],
@@ -331,6 +639,22 @@
     "experienceRequired": 157000,
     "rewards": {
       "inventory": [
+        {
+          "id": "db79d00e-4d38-645e-a015-5da494b50156",
+          "amount": 32
+        },
+        {
+          "id": "284c795b-f596-9272-a459-f5fb45613b29",
+          "amount": 32
+        },
+        {
+          "id": "9a95f0ef-3009-5c99-c1ee-d9dae9320f9e",
+          "amount": 20
+        },
+        {
+          "id": "eed33bfa-83cd-5bd9-a371-f58ea1f4e0d0",
+          "amount": 10
+        }
       ],
       "buildplates": [
       ],
@@ -346,6 +670,22 @@
     "experienceRequired": 169000,
     "rewards": {
       "inventory": [
+        {
+          "id": "390a4efa-6409-53dd-a613-093cb1f5ed92",
+          "amount": 64
+        },
+        {
+          "id": "250b2d5d-685e-c75e-e2f3-6b922ce318d0",
+          "amount": 64
+        },
+        {
+          "id": "70662cf2-a783-3728-1778-5ccd4187d413",
+          "amount": 128
+        },
+        {
+          "id": "7e824450-291f-9a61-5596-6b0b3b938162",
+          "amount": 32
+        }
       ],
       "buildplates": [
       ],
@@ -361,7 +701,20 @@
     "experienceRequired": 185000,
     "rewards": {
       "inventory": [
+        {
+          "id": "1d9f2540-bbc2-7207-87a5-097b6c48ac0e",
+          "amount": 3
+        },
+        {
+          "id": "1eaa0d8c-2d89-2b84-aa1f-b75ccc85faff",
+          "amount": 16
+        },
+        {
+          "id": "bc7973d3-488f-54a0-3f59-93285b2fda7f",
+          "amount": 128
+        }
       ],
+      "rubies": 50,
       "buildplates": [
       ],
       "challenges": [
